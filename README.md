@@ -16,13 +16,6 @@ The **Food Delivery Management System** is a comprehensive application designed 
 
 ---
 
-## Tech Stack
-- **Frontend:** Java (NetBeans)
-- **Backend:** MySQL with SQL and PL/SQL
-- **Database Design:** Normalized schema (3NF/BCNF) with constraints for data integrity
-
----
-
 ## File Structure
 - **.java Files:** These files contain the core business logic and functionality of the application. They are written in Java and used to implement the user interface, order management, customer profiles, restaurant management, and delivery tracking.
   
